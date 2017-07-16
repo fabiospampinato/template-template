@@ -1,6 +1,6 @@
 # khaos-{{name}}
 
-{{description}}
+A Khaos template for starting a new {{instanceName}} quickly.
 
 ## Install
 
@@ -12,7 +12,7 @@ $ khaos install {{owner}}/khaos-{{name}} {{name}}
 
 ## Usage
 
-Create a new instance with:
+Create a new {{instanceName}} with:
 
 ```
 $ khaos create {{name}} my-{{name}}
