@@ -1,13 +1,13 @@
-# khaos-{{name}}
+# template-{{name}}
 
-A Khaos template for starting a new {{instanceName}} quickly.
+A template for starting a new {{instanceName}} quickly.
 
 ## Install
 
-Save the template locally with:
+Install the template locally with:
 
 ```
-$ khaos install {{owner}}/khaos-{{name}} {{name}}
+$ template install {{owner}}/template-{{name}} {{name}}
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ $ khaos install {{owner}}/khaos-{{name}} {{name}}
 Create a new {{instanceName}} with:
 
 ```
-$ khaos create {{name}} my-{{name}}
+$ template create {{name}} my-{{name}}
 ```
 
 ## License

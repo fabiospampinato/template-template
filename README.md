@@ -1,21 +1,21 @@
-# khaos-khaos
+# template-template
 
-A Khaos template for starting a new Khaos template quickly.
+A template for starting new templates quickly.
 
 ## Install
 
-Save the template locally with:
+Install the template locally with:
 
 ```
-$ khaos install fabiospampinato/khaos-khaos khaos
+$ template install fabiospampinato/template-template template
 ```
 
 ## Usage
 
-Create a new Khaos template with:
+Create a new template with:
 
 ```
-$ khaos create khaos my-template
+$ template create template my-template
 ```
 
 ## License
