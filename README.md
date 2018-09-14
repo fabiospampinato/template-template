@@ -6,7 +6,7 @@ A template for starting new templates quickly.
 
 Install the template locally with:
 
-```
+```sh
 template install fabiospampinato/template-template template
 ```
 
@@ -14,7 +14,7 @@ template install fabiospampinato/template-template template
 
 Create a new template with:
 
-```
+```sh
 template create template my-template
 ```
 

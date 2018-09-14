@@ -6,7 +6,7 @@ A template for starting a new {{instanceName}} quickly.
 
 Install the template locally with:
 
-```
+```sh
 template install {{owner}}/template-{{name}} {{name}}
 ```
 
@@ -14,7 +14,7 @@ template install {{owner}}/template-{{name}} {{name}}
 
 Create a new {{instanceName}} with:
 
-```
+```sh
 template create {{name}} my-{{name}}
 ```
 
