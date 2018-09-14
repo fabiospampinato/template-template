@@ -7,7 +7,7 @@ A template for starting a new {{instanceName}} quickly.
 Install the template locally with:
 
 ```
-$ template install {{owner}}/template-{{name}} {{name}}
+template install {{owner}}/template-{{name}} {{name}}
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ $ template install {{owner}}/template-{{name}} {{name}}
 Create a new {{instanceName}} with:
 
 ```
-$ template create {{name}} my-{{name}}
+template create {{name}} my-{{name}}
 ```
 
 ## License

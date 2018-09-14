@@ -7,7 +7,7 @@ A template for starting new templates quickly.
 Install the template locally with:
 
 ```
-$ template install fabiospampinato/template-template template
+template install fabiospampinato/template-template template
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ $ template install fabiospampinato/template-template template
 Create a new template with:
 
 ```
-$ template create template my-template
+template create template my-template
 ```
 
 ## License
