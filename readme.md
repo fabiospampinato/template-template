@@ -1,12 +1,10 @@
 # template-template
 
-A template for starting new templates quickly.
+A template for creating a new template quickly.
 
 ## Install
 
-Install the [`template`](https://github.com/fabiospampinato/template) CLI tool in your system.
-
-Install the template locally with:
+Install [`template`](https://github.com/fabiospampinato/template), then install this template with:
 
 ```sh
 template install fabiospampinato/template-template template
@@ -17,7 +15,7 @@ template install fabiospampinato/template-template template
 Create a new template with:
 
 ```sh
-template create template my-template
+template new template my-template
 ```
 
 ## License

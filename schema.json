@@ -1,0 +1,16 @@
+{
+  "variables": {
+    "name": {
+      "type": "string"
+    },
+    "instanceName": {
+      "type": "string"
+    },
+    "author": {
+      "type": "string"
+    },
+    "owner": {
+      "type": "string"
+    }
+  }
+}
